@@ -2,11 +2,17 @@
 
 To Run the project follow the following steps-
 
+
+# for front-end 
  ### cd client
  ### npm install
  ### npm start
 
 
+
+
+
+# for back-end
 ### cd server
 ### npm install
 ### nodemon app.js
