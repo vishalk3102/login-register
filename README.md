@@ -3,7 +3,7 @@
 To Run the project follow the following steps-
 
 
-# for front-end 
+# for Front-end 
  ### cd client
  ### npm install
  ### npm start
@@ -12,7 +12,7 @@ To Run the project follow the following steps-
 
 
 
-# for back-end
+# for Back-end
 ### cd server
 ### npm install
 ### nodemon app.js
